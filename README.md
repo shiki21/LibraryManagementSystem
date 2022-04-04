@@ -15,8 +15,8 @@
 ### 3.项目估算
 #### a) 规模估算
     模块复杂度估算为：中等模块，业务逻辑复杂度一般，表的访问个数不超过4个，数据展示量中等。
-#### b) 进度估算
-![Gantt_chart](https://github.com/shiki21/LibraryManagementSystem/blob/main/media/甘特图.png)
+#### b) 进度估算  
+![Gantt_chart](https://github.com/shiki21/LibraryManagementSystem/blob/main/media/甘特图.png)  
 
 ### 4.人力资源安排
 | 项目模块 | 成员 |
@@ -104,19 +104,19 @@
 无特殊要求
 
 ### 4.需求规定
-#### 1)软件系统总体功能结构
+#### 1)软件系统总体功能结构  
 ![Functional_structure_diagram](https://github.com/shiki21/LibraryManagementSystem/blob/main/media/系统功能结构图.png)
 
 #### 2)功能需求
 ##### 数据流图
-- 顶层数据流图
-    ![top_Data_Flow_Diagram](https://github.com/shiki21/LibraryManagementSystem/blob/main/media/顶层数据流图.png)
-- 数据流图及加工判定树
-    ![Data_Flow_Diagram](https://github.com/shiki21/LibraryManagementSystem/blob/main/media/数据流图.png)
+- 顶层数据流图  
+    ![top_Data_Flow_Diagram](https://github.com/shiki21/LibraryManagementSystem/blob/main/media/顶层数据流图.png)  
+- 数据流图及加工判定树  
+    ![Data_Flow_Diagram](https://github.com/shiki21/LibraryManagementSystem/blob/main/media/数据流图.png)  
     
 ##### 用例图
-- 总用例图
-    ![total_use_case_diagram](https://github.com/shiki21/LibraryManagementSystem/blob/main/media/总用例图.png)
+- 总用例图  
+    ![total_use_case_diagram](https://github.com/shiki21/LibraryManagementSystem/blob/main/media/总用例图.png)  
 - 用例描述
     * __用例“注册”__
         > 该用例是用户使用系统前需要进行的必要步骤，通过注册并登陆即可使用系统。  
